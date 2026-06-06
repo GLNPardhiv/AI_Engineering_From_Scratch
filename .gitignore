@@ -17,3 +17,13 @@ bin/
 
 /target/
 main
+.env
+.vscode/
+
+*.bin
+*.safetensors
+*.pt
+*.onnx
+data/*.parquet
+data/*.csv
+models/
